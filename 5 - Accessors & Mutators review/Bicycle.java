@@ -1,5 +1,6 @@
 /*
-purpose: to practice the implementation of different methods that do different things
+purpose: to practice the implementation of different methods that do different 
+things and learn about class methods
 */
 
 public class Bicycle {

@@ -1,12 +1,12 @@
 // ***********************************************************************************************************************************
-// Written by: Gianfranco Dumoulin
+// Written by: Gianfranco Dumoulin Bertucci
 // Date: February 8th, 2019
 // Purpose: to output a specific season and corresponding message based on user input
 // ***********************************************************************************************************************************
 
 import java.util.Scanner;
 
-public class Assignment1Q2 {
+public class SeasonalMessage {
 	public static void main(String[] args) {
 		// "requestedDate" will be the variable name for the scanner
 		Scanner requestedDate = new Scanner(System.in);

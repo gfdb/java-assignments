@@ -1,5 +1,5 @@
 // -----------------------------------------------------------------------------------------------
-// Written by: Gianfranco Dumoulin
+// Written by: Gianfranco Dumoulin Bertucci
 // Date: April 14 2019
 // Purpose: This is 1 of 3 classes for a game called Golf(driver). 
 //The purpose of this class is to define multiple methods which can be seen below. 

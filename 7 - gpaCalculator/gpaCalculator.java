@@ -1,5 +1,5 @@
 // -----------------------------------------------------------------------------------------------
-// Written by: Gianfranco Dumoulin
+// Written by: Gianfranco Dumoulin Bertucci
 // Date: March 25 2019
 // Purpose: calculates the GPA
 // of a person by prompting the user for 3 key inputs, Name of a course, the credits its worth, 
@@ -10,7 +10,7 @@
 
 import java.util.Scanner;
 
-public class Assignment3Q1 {
+public class GpaCalculator {
 	
 
 

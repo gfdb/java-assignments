@@ -1,5 +1,5 @@
 // -----------------------------------------------------------------------------------------------
-// Written by: Gianfranco Dumoulin
+// Written by: Gianfranco Dumoulin Bertucci
 // Date: March 7 2019
 // Purpose: calculates the cost
 // of the mortgage insurance, total loan amount and mortgage payments per month 
@@ -9,7 +9,7 @@
 
 import java.util.Scanner;
 
-public class Assignment2Q2 {
+public class MortgageCalculator {
 
 	public static void main(String[] args) {
 		

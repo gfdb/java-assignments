@@ -1,13 +1,13 @@
 
 // ***********************************************************************************************************************************
-// Written by: Gianfranco Dumoulin
+// Written by: Gianfranco Dumoulin Bertucci
 // Date: January 16, 2019
 // Purpose: to output a specific string 
 // exactly as in the sample output given by the instructor, 
 // also to learn to use escape sequences
 // ***********************************************************************************************************************************
 
-public class Assignment1Q1
+public class EscapeSequences
 {
     public static void main (String[] args)
         { 

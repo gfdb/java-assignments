@@ -10,7 +10,7 @@
 
 import java.util.Scanner;
 
-public class Assignment2Q3 {
+public class CostOfPhonePlan {
 
 	public static void main(String[] args) {
 

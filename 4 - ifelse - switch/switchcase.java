@@ -1,5 +1,5 @@
 // -----------------------------------------------------------------------------------------------
-// Author: Gianfranco Dumoulin
+// Author: Gianfranco Dumoulin Bertucci
 // Date: March 7 2019
 // Purpose: requests a day of the week 
 // and then outputs a chore for the day requested using switch statements
@@ -7,7 +7,7 @@
 
 import java.util.Scanner;
 
-public class Assignment2Q1switch {
+public class SwitchCase {
 
 	public static void main(String[] args) {
 		

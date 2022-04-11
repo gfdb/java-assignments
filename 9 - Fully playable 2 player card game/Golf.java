@@ -1,5 +1,5 @@
 // -----------------------------------------------------------------------------------------------
-// Written by: Gianfranco Dumoulin
+// Written by: Gianfranco Dumoulin Bertucci
 // Date: April 14 2019
 // Purpose: This is the driver class(1 of 3 classes) for a game called Golf. 
 // Essentially, the point of the game is to flip over cards in your 3x3 board. The objective is to
